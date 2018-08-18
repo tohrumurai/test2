@@ -1,2 +1,3 @@
 これはテストである。
 koreha test dearu
+さらに追加してみた。
