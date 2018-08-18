@@ -1,3 +1,4 @@
 これはテストである。
 koreha test dearu
 さらに追加してみた。
+test2での変更
